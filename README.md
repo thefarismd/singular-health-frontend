@@ -31,6 +31,7 @@
 
 - Patient scan is hardcoded — the app only supports a single patient's scan records.
 - To add more scan, please add manually in the backend.
+- The UI is designed for desktop use only and is **not optimized for mobile devices**.
 
 ## Estimated Time Spent
 
