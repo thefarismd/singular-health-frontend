@@ -1,3 +1,8 @@
+## Prerequisites
+    
+- **Node.js v23.10.0**; it should work with **Node.js v18 or later** (LTS recommended)
+- Make sure you have **npm** (comes with Node) installed
+
 ## Development Setup
 
 1. Navigate to the `singular-health-frontend/` folder:
@@ -25,6 +30,7 @@
 ## Assumptions & Trade-offs
 
 - Patient scan is hardcoded — the app only supports a single patient's scan records.
+- To add more scan, please add manually in the backend.
 
 ## Estimated Time Spent
 
